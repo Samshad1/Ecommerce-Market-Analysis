@@ -51,7 +51,9 @@ A crucial component of the project presented its own challenges. However, Micros
 ## Conclusion and Recommendation
 In conclusion, this project illuminated the transformative potential of data-driven decision-making within the realm of e-commerce. It has become abundantly clear that in the dynamic landscape of the Nigerian market, success is not merely about competing; it's about being intuitive. A pivotal finding that underscores this point is the remarkable influence of social media.
 
-Based on our data analysis and the profound impact of social media, the core recommendation stemming from this project is clear: Any e-commerce venture aiming to thrive in Nigeria must fully harness the potential of social media. It is not just a marketing tool; it is the cornerstone of building enduring customer relationships and driving exponential growth. In the era of data and digital connectivity, social media is not an option; it is imperative for sustainable e-commerce success.
+Based on our data analysis and the profound impact of social media, the core recommendation stemming from this project is clear: 
+- Any e-commerce venture aiming to thrive in Nigeria must fully harness the potential of social media. It is not just a marketing tool; it is the cornerstone of building enduring customer relationships and driving exponential growth.
+- In the era of data and digital connectivity, social media is not an option; it is imperative for sustainable e-commerce success.
 
 It is with utmost confidence and conviction that we emphasize the profound significance of integrating social media strategies into the e-commerce landscape. It is the key to not only surviving but thriving in the Nigerian market, setting the stage for a brighter and more prosperous future in the world of online retail.
 
